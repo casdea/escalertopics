@@ -14,7 +14,8 @@ import { MenuTitleComponent } from './components/menu-title/menu-title.component
     MenuBarComponent,
     CardComponent,
     FooterComponent,
-    MenuTitleComponent
+    MenuTitleComponent,
+
   ],
   imports: [
     BrowserModule,

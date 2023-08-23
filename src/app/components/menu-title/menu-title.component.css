@@ -16,3 +16,15 @@
   text-decoration: none;
 }
 */
+
+.container {
+  display: flex;
+  justify-content: space-between; /* Distribui as colunas uniformemente */
+}
+
+.col {
+  flex: 1; /* Faz com que as colunas tenham largura igual */
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-align: center;
+}
