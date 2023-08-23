@@ -19,12 +19,24 @@
 
 .container {
   display: flex;
+  background-color: #1A2C47;
   justify-content: space-between; /* Distribui as colunas uniformemente */
 }
 
 .col {
   flex: 1; /* Faz com que as colunas tenham largura igual */
   padding: 10px;
-  border: 1px solid #ccc;
+  background-color: #1A2C47;
+  border: 1px solid #1A2C47;
+  text-align: center;
+  text-decoration: none;
+}
+
+.col a {
+  background-color: #1A2C47; /* Define o fundo do texto como azul escuro */
+  color: white; /* Define a cor do texto como branco */
+  text-decoration: none;
+  padding: 10px;
+  border: 1px solid #1A2C47;
   text-align: center;
 }
