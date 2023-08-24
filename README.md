@@ -7,8 +7,8 @@ https://www.scaler.com/topics/
 ![image](https://github.com/casdea/escalertopics/assets/13076257/54cd13d8-2beb-4f92-905e-0421f94135c2)
 
 ### Componente Header
-- Componente Title 
-- Componente MenuBar 
+- Componente Menu Title 
+- Componente Menu Bar 
 
 ### Componente Content
   - Componente List Card
@@ -19,6 +19,13 @@ https://www.scaler.com/topics/
         - Card Eventos
 
 ### Component Footer
+
+***Design dos componentes HTML***
+
+- Menu Title
+![image](https://github.com/casdea/escalertopics/assets/13076257/8288c8cf-24a8-48a4-b8a6-8f4bcda1d21e)
+
+- Menu Bar
 
 
 
