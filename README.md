@@ -12,6 +12,7 @@ https://www.scaler.com/topics/
 
 ### Componente Content
   - Componente List Card
+     - ![image](https://github.com/casdea/escalertopics/assets/13076257/052c495e-126a-48e4-b4c0-d320c8f06c37)
      - Componente Card 
         - Card Cursos
           - Desenho técnico 
@@ -43,6 +44,3 @@ https://www.scaler.com/topics/
 - Menu Bar
   - Desenho Técnico
     -![Alt text](image-5.png) 
-
-- Componente Home
-![image](https://github.com/casdea/escalertopics/assets/13076257/052c495e-126a-48e4-b4c0-d320c8f06c37)
