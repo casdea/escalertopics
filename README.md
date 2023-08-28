@@ -39,9 +39,10 @@ https://www.scaler.com/topics/
 
 - Adicionado a lista de cards
   -![Alt text](image-4.png)
-  
-- Menu Bar
 
+- Menu Bar
+  - Desenho Técnico
+    -![Alt text](image-5.png) 
 
 
 
