@@ -7,9 +7,10 @@ import { Component, OnInit } from '@angular/core';
 })
 export class MenuBarComponent implements OnInit {
 
+  pathImagens : String = '../../../assets/';
+
   constructor() { }
 
   ngOnInit(): void {
   }
-
 }

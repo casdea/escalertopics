@@ -1,0 +1,30 @@
+.nav-item {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+/* Altere a cor do texto quando o menu estiver ativo */
+  .nav-item.dropdown.show .nav-link.dropdown-toggle {
+    color: red; /* Altere a cor conforme necessário */
+  }
+
+  /* Adicione uma seta para cima ao ícone quando o menu estiver ativo */
+  nav-item.dropdown.show .nav-link.dropdown-toggle::after {
+    content: "\25B2"; /* Isso exibirá uma seta para cima */
+    font-size: 1px; /* Altere o tamanho da fonte conforme necessário */
+    display: none
+  }
+
+  .navbar navbar-expand-lg {
+    width: 400px;
+    padding: 10px;
+  }
+
+  .form-control {
+    width: 400px;
+  }
+
+  .btn btn-sm btn-outline-secondary
+  {
+    background-color: blue;
+  }

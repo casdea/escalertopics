@@ -1,23 +1,49 @@
-<div class="linha1">
-  <div>IMAGEM TOPICOS</div>
-  <div>LISTA TOPICOS</div>
-  <div>EXPLORAR</div>
-  <div>CURSOS</div>
-  <div>EVENTOS</div>
-  <div>PESQUISA</div>
-  <div>ENTRAR</div>
-  <div>EXPERIENCIA ESCALAR</div>
-</div>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
 
-<style>
-  *{
-    border: 1px solid gray;
-    padding: 5px;
-  }
-
-  .linha1 {
-    display: flex;
-  }
-
-
-</style>
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">Menu
+          <img src="../../../assets/escaler-topics.png" alt="">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Início <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Tópicos
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="#">Todos os tópicos</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="#">Tutorial Python</a>
+                        <a class="dropdown-item" href="#">Tutorial de estruturas de dados</a>
+                        <a class="dropdown-item" href="#">Tutorial Java</a>
+                        <a class="dropdown-item" href="#">Tutorial de JavaScript</a>
+                        <a class="dropdown-item" href="#">Tutorial C</a>
+                        <a class="dropdown-item" href="#">Tutorial C++</a>
+                        <a class="dropdown-item" href="#">Tutorial de SGBD</a>
+                        <a class="dropdown-item" href="#">Tutorial HTML</a>
+                        <a class="dropdown-item" href="#">Tutorial do sistema operacional (SO)</a>
+                        <a class="dropdown-item" href="#">Tutorial CSS</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://github.com/casdea">Github</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="https://www.linkedin.com/in/carlos-andrade-andrade-b3509889/">Linkedin</a>
+                </li>
+          </ul>
+          <form class="d-flex">
+            <input class="form-control me-2" type="search" placeholder="Pesquise artigos e tópicos" aria-label="Search">
+            <button class="btn btn-outline-success" type="submit">Pesquisa</button>
+            <button class="btn btn-light" type="button">Login</button>
+            <button class="btn btn-primary" type="button">Experimente Escalar</button>
+          </form>
+        </div>
+    </div>
+</nav>

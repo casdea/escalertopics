@@ -1,4 +1,1 @@
-*{
-  margin: 0;
-  background-color: #FFFFFF;
-}
+@import "~bootstrap/dist/css/bootstrap.css";
