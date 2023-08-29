@@ -49,3 +49,13 @@ https://www.scaler.com/topics/
 - Versão Inicial do Projeto CSS/HTML
 
   -![Alt text](image-6.png)
+
+
+- Observação 
+  Inicialmente não estava previsto instalação do BootStrap. Porem tem um efeito no site que estudei que 
+  não conseguir sem ele. Por isso tive que usar. 
+
+  Mas fiquem a vontade para tentar fazer sem ele.
+ 
+  Também decidir não fazer o rodape (footer) por uma questão prática. O objetivo do projeto cumpriu o papel 
+  que eu queria. O objetivo principal era componentizar o card.
