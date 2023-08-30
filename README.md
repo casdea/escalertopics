@@ -13,6 +13,11 @@ https://www.scaler.com/topics/
 ### Componente Content
   - Componente List Card
      - ![image](https://github.com/casdea/escalertopics/assets/13076257/052c495e-126a-48e4-b4c0-d320c8f06c37)
+
+     - Identificando Partes do HTML
+
+       -![Alt text](image-8.png)
+
      - Componente Card 
         - Card Cursos
           - Desenho técnico 
@@ -59,3 +64,6 @@ https://www.scaler.com/topics/
  
   Também decidir não fazer o rodape (footer) por uma questão prática. O objetivo do projeto cumpriu o papel 
   que eu queria. O objetivo principal era componentizar o card.
+
+  A maioria dos links não está fazendo nada já que o projeto era focado no layout da tela principal de topicos
+  envolvendo o html/css e a componentização em angular. 
