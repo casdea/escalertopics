@@ -7,7 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
 
-  pathImagens : String = '../../../assets/';
-
-  title = 'escalerTopics';
+    title = 'escalerTopics';
 }

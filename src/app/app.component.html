@@ -1,44 +1,4 @@
-<app-menu-title class="container__menu-title"></app-menu-title>
-<app-menu-bar></app-menu-bar>
-<div class="bloco">
-  <div class="linha1">
-    <app-card class="card1" id="coluna"
-      titulo1Linha1="CURSOS"
-      titulo2Linha2="Cursos gratuitos dos instrutores Top Scaler"
-      imagem1Linha1="{{ pathImagens }}play.png"
-      imagem1Linha3="{{ pathImagens }}seta.png"
-      titulo1Linha3="Ver Cursos"
-      imagem1Bloco2="{{ pathImagens }}playpc.png"
-    >
-    </app-card>
-    <app-card class="card2" id="coluna"
-      titulo1Linha1="CONCURSOS"
-      titulo2Linha2="Onde seu aprendizado encontra recompensas"
-      imagem1Linha1="{{ pathImagens }}taca-campeao.png"
-      imagem1Linha3="{{ pathImagens }}seta.png"
-      titulo1Linha3="Ver Concursos"
-      imagem1Bloco2="{{ pathImagens }}taca-grande-campeao.png"
-    >
-    </app-card>
-  </div>
-  <div class="linha2">
-    <app-card class="card3" id="coluna"
-      titulo1Linha1="DESAFIOS"
-      titulo2Linha2="Na dúvida, resolva. Prática"
-      imagem1Linha1="{{ pathImagens }}quebra-cabeca.png"
-      imagem1Linha3="{{ pathImagens }}seta.png"
-      titulo1Linha3="Ver Desafios"
-      imagem1Bloco2="{{ pathImagens }}quebra-cabeca-desmontado.png"
-    >
-    </app-card>
-    <app-card class="card4" id="coluna"
-      titulo1Linha1="EVENTOS"
-      titulo2Linha2="Participe de palestras ao vivo dos melhores instrutores de Scaler"
-      imagem1Linha1="{{ pathImagens }}eventos.png"
-      imagem1Linha3="{{ pathImagens }}seta.png"
-      titulo1Linha3="Ver Eventos"
-      imagem1Bloco2="{{ pathImagens }}calendario.png"
-    >
-    </app-card>
-  </div>
-</div>
+<header>
+  <app-home></app-home>
+</header>
+<router-outlet></router-outlet>

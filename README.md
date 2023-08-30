@@ -16,23 +16,23 @@ https://www.scaler.com/topics/
 
      - Identificando Partes do HTML
 
-       -![Alt text](image-8.png)
-
+       -![Alt text](.ideas\image-8.png)
+              
      - Componente Card 
         - Card Cursos
           - Desenho técnico 
-          - ![Alt text](image.png)
+          - ![Alt text](.ideas\image.png)
           - Aplicação do Html
-          - ![Alt text](image-1.png)
+          - ![Alt text](.ideas\image-1.png)
           - Rodando como componente reutilizavel
-          - ![Alt text](image-2.png)        
+          - ![Alt text](.ideas\image-2.png)        
         - Card Desafios
           - Similar ao Primeiro
         - Card Concursos
           - Similar ao Primeiro
         - Card Eventos
           - Similar ao Primeiro
-  - ![Alt text](image-3.png)        
+  - ![Alt text](.ideas\image-3.png)        
 
 
 
@@ -44,16 +44,16 @@ https://www.scaler.com/topics/
   -![image](https://github.com/casdea/escalertopics/assets/13076257/8288c8cf-24a8-48a4-b8a6-8f4bcda1d21e)
 
 - Adicionado a lista de cards
-  -![Alt text](image-4.png)
+  -![Alt text](.ideas\image-4.png)
 
 - Menu Bar
   - Desenho Técnico
-    -![Alt text](image-5.png) 
+    -![Alt text](.ideas\image-5.png) 
 
 
 - Versão Inicial do Projeto CSS/HTML
 
-  -![Alt text](image-6.png)
+  -![Alt text](.ideas\image-6.png)
 
 
 - Observação 

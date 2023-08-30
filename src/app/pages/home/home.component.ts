@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { serverData } from 'src/app/data/serverData';
 
 @Component({
   selector: 'app-home',
@@ -6,6 +7,9 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./home.component.css']
 })
 export class HomeComponent implements OnInit {
+  dados = serverData;
+
+  pathImagens : String = '../../../assets/';
 
   constructor() { }
 
