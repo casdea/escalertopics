@@ -16,7 +16,7 @@ https://www.scaler.com/topics/
 
      - Identificando Partes do HTML
 
-       -![Alt text](.ideas\image-8.png)
+       -![Alt text](.ideas/image-8.png)
               
      - Componente Card 
         - Card Cursos
